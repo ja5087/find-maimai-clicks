@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#project-specific
+timecodes.txt
+config.cfg
+*.wav
